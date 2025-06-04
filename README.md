@@ -1,4 +1,3 @@
-
 # 📚 QUIZ-APP
 
 This project was bootstrapped with [Create React App](https://github.com/daveontrack/create-react-app).
@@ -31,7 +30,7 @@ In the project directory, you can run:
 
 Runs the app in development mode.
 
-### `npm test`
+
 
 Launches the test runner in interactive watch mode.
 [Learn more](https://daveontrack.github.io/create-react-app/docs/running-tests)
