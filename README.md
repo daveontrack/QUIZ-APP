@@ -81,15 +81,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Happy coding!** 💻✨
-
-```
-
----
-
-You can save this as a `README.md` file in the root of your project directory. Let me know if you'd like to:
-
-- Add shields (like npm version, MIT license, etc.)
-- Include screenshots or a demo link
-- Set up deployment instructions (e.g., for Vercel or Netlify)
-```
